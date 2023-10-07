@@ -6,6 +6,10 @@ function App() {
 
   function handleClickForIncrement() {
     setValue((v) => v + 1);
+    setValue((v) => v + 1);
+    setValue((v) => v + 1);
+    setValue((v) => v + 1);
+    setValue((v) => v + 1);
   }
 
   function handleClickForDecrement() {
